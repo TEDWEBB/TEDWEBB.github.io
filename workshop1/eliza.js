@@ -27,6 +27,7 @@
  *   the results to the user."
  */
 
+
 var rules = {
   "~*x hello ~*y": [
     "Come to bed with me my love."
